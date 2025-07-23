@@ -1,0 +1,24 @@
+/* Hero Section */
+.hero {
+  background: linear-gradient(to right, #141e30, #243b55);
+  height: 100vh;
+  text-align: center;
+  padding: 100px 0;
+}
+
+/* Section Headings */
+h2 {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Card Hover Effect */
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease-in-out;
+}
+
+/* Footer */
+footer {
+  background-color: #111;
+}
